@@ -39,6 +39,10 @@ body {
 .cont video {
     border: #b2b1c0 solid 2px;
 }
+.cont img {
+    width: 640px;
+    height: 360px;
+}
 #titulo {
     font-weight: bold;
     font-size: 35px;
